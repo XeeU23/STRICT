@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">STRICT</string>
+    <string name="headerTitle">Hello Works!</string>
+    <string name="txUsername">Username</string>
+    <string name="txPassword">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonRegister">Register</string>
+    <string name="additionalGoogle">Atau login dengan:</string>
+
 </resources>
