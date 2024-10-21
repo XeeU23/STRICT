@@ -1,2 +1,4 @@
-package com.example.strict;public class HomeController {
+package com.example.strict;
+
+public class HomeController {
 }
