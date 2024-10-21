@@ -129,6 +129,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textGoogleLogin"
-        app:srcCompat="@drawable/logoGoogle" />
+        app:srcCompat="@drawable/googlelogo" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
